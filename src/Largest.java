@@ -4,10 +4,9 @@ import java.nio.file.Paths;
 import java.util.StringTokenizer;
 
 /*
- * Homework 2
- * CSC 388
+ * Largest Zero Sum Subset
+ * Created By: 
  * Justin Lautner
- * Student Number: 679361959​
  */
 
 public class Largest {
